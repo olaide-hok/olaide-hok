@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olaide-hok
-- 👀 I’m interested in frontend development.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on projects that uses Angular.
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on projects that uses React.
 - 📫 You can reach me via olaidekareem43@yahoo.com
 
 <!---
