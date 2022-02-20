@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Habeeb
+- # 👋 Hi, I’m Habeeb
 
 
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning React, Redux, and Typescript.
+- 👀 I’m a frontend web developer.
+- 🌱 I’m work with React, Javascript, Typescript, Bootstrap, Tailwind, NodeJs and a few other frameworks.
+- 🌱 I'm currently learning Microservices.
 - 💞️ I’m looking to collaborate on projects that uses React.
 - 📫 You can reach me via olaidekareem43@yahoo.com
 
