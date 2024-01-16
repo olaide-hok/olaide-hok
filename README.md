@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 👨‍💻 All of my projects are available at [olaide-hok.vercel.app](olaide-hok.vercep.app)
+- 👨‍💻 All of my projects are available at [habeeb-dev](https://habeeb-dev.netlify.app/)
 
 - 💬 Ask me about **React**
 
