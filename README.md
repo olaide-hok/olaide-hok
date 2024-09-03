@@ -7,7 +7,7 @@
 
 - 👨‍💻 Some of my projects are available at [habeeb-dev](https://habeeb-dev.netlify.app/) and more to come soon!
 
-- 💬 Ask me about **JavaScrip, React TypeScript, NodeJS**
+- 💬 Ask me about **JavaScript, React, TypeScript, NodeJS, PHP.**
 
 - 📫 How to reach me **olaidekareem43@yahoo.com**
 
