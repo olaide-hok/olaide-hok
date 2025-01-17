@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olaide-hok" alt="olaide-hok" /></a> </p>
 
-- 🌱 I’m currently learning about **Microservices, Serveless Functions and AWS Solutions**.
+- 🌱 I’m currently learning about **Microservices, Serveless Functions, and Blockchain Smart Contracts(EVMs)**.
 
 - 👨‍💻 Some of my projects are available at [habeeb-dev](https://habeeb-dev.netlify.app/) and more to come soon!
 
